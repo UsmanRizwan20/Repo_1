@@ -1,2 +1,1 @@
-# Repo_1
-This is my 1st repo 
+Introduction:My name is Muhammad Usman Rizwan. I am currently doing my bachelors in Computer Sciences. I am passionate about turning data into insights. Skills & Tools: Java, C, C++, PYTHON, MySQL, PowerBI Projects: Basic 2D game in java Contact Info: mu4641730@gmail.com
